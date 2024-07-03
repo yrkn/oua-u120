@@ -72,7 +72,7 @@ XXXX, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasabanın geceleyin 
 - Takım üyeleri tanıştı ve görev dağılımı yapıldı.
 - Oyunun nasıl ilerleyeceği hakkında kararlar alındı.
 - Harita, alınan kararlar doğrultusunda tasarlandı.
-- Hareket sistemi hazırlandı.
+- Hareket sistemi hazırlandı ve animasyonlar verildi.
 - Daily Scrum'larda seçilen karakter oyuna entegre edildi.
 
 ### Sprint Retrospective
