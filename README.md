@@ -55,7 +55,7 @@ XXXX, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasabanın geceleyin 
   
 <details>
 <summary><h3>Sprint - 1 Board Update</h3></summary>
-<img src="screenshots/sprint1boardup.png" width="500" height="auto">    
+<img src="screenshots/sprint1boardupd.png" width="500" height="auto">    
 </details>
 
 <details>
