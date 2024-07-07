@@ -17,11 +17,11 @@
 
 
 ## → Oyun İsmi
-### **`XXXX`**
+### **`Nightfall Defender`**
 
 ## → Oyun Açıklaması
 
-XXXX, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasabanın geceleyin zombilere dönüşen karanlık tehlikesine karşı cesurca mücadele eden bir şerif olarak rol alırlar. Bu heyecan verici oyun deneyiminde, kasabanın sokaklarında dolaşan zombilere karşı koymak ve sakinleri korumak için silahlarını kullanırlar.
+Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasabanın geceleyin zombilere dönüşen karanlık tehlikesine karşı cesurca mücadele eden bir şerif olarak rol alırlar. Bu heyecan verici oyun deneyiminde, kasabanın sokaklarında dolaşan zombilere karşı koymak ve sakinleri korumak için silahlarını kullanırlar.
 
 ## → Oyun Özellikleri
 
