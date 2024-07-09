@@ -52,6 +52,16 @@ Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasaban
 - İlk sprint içi puan kriteri 10 olarak belirlenmiş ve hedefe ulaşılmıştır.
 - **Puan Tamamlama Mantığı** : Proje boyunca tamamlanması gereken backlog puanı 40 olarak belirlenmiştir.
 - **Daily Scrum** toplantıları Discord üzerinden yapılmıştır. Gerek görüldüğü vakitlerde WhatsApp üzerinden desteklenmiştir.
+- **Sprint Notları** : İlk sprintte takım üyeleri birbiri ile tanıştı ve takım içerisinde herkesin yetenekleri ve ilgi alanlarına göre görev dağılımı yapıldı. Oyuna karar verildikten sonra ilk iş olarak harita tasarımı yapıldı ve ardından daily scrumlarda seçilen karakter oyuna hareket sistemi ile birlikte eklenerek oyunun temeli hazırlandı. Sprint başında koyulan görevler,hedefler eksiksiz şekilde tamamlandı. İlk sprint tanışma ve adaptasyon odaklı geçtiğinden ötürü bir sonraki sprinte tam performans girilmesi gerektiği vurgulandı.
+
+<details>
+<summary><h3>Daily Scrum Screenshots</h3></summary>
+<p align="center">
+<img src="screenshots/dailyscrum1.png" width="500" height="auto">   
+<img src="screenshots/dailyscrum2.png" width="500" height="auto">   
+<img src="screenshots/dailyscrum3.png" width="500" height="auto">    
+</p>
+</details>  
   
 <details>
 <summary><h3>Sprint - 1 Board Update</h3></summary>
