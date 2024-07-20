@@ -93,6 +93,49 @@ Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasaban
 
 <!-- ============================================================================================= SPRINT2 ============================================================================================================= -->
 
+<details>
+<summary><h2>SPRINT-2</h2></summary>
+
+- Sprint içi puan kriteri 15 olarak belirlenmiş ve hedefe ulaşılmıştır.
+- **Puan Tamamlama Mantığı** : Proje boyunca tamamlanması gereken backlog puanı 40 olarak belirlenmiştir.
+- **Daily Scrum** toplantıları Discord üzerinden yapılmıştır. Gerek görüldüğü vakitlerde WhatsApp üzerinden desteklenmiştir.
+- **Sprint Notları** : İkinci sprintte oyuna full odak verilmiştir ve oyunun temeli üzerine her şey hazırlanmıştır. Üçüncü ve son sprinte zamansal olarak herhangi bir sıkıntı olmadan giriş yapılması beklenmekte.
+
+<details>
+<summary><h3>Daily Scrum Screenshots</h3></summary>
+<p align="center">
+<img src="screenshots/dailyscrum4.png" width="500" height="auto">   
+<img src="screenshots/dailyscrum5.png" width="500" height="auto">   
+</p>
+</details>  
+  
+<details>
+<summary><h3>Sprint - 2 Board Update</h3></summary>
+<img src="screenshots/sprint2boardupd.png" width="500" height="auto">    
+</details>
+
+<details>
+<summary><h3>Oyun Durumu</h3></summary>
+<p align="center">
+<img src="screenshots/s2g1.png" width="500" height="auto">   
+<img src="screenshots/s2g2.png" width="500" height="auto">   
+<img src="screenshots/s2g3.jpg" width="500" height="auto">   
+</p>
+</details>
+
+### Sprint Review
+- İlk sprintte yapılması istenen fakat tanışma&toplantılar sebebiyle yapılamayan sistemler yapıldı.
+- Oyunun temel mekanikleri hazırlandı ve problemleri fixlendi.
+- Son sprinte daha rahat girebilmek için çoğu sistem hazırlandı ve bug testleri yapıldı.
+
+### Sprint Retrospective
+- Takım içi dağıtılan rollerin son sprintte de geçerli olmasına karar verildi.
+- Son sprinti sorunsuz tamamlamak için tekrardan full odak uyarısı yapıldı.
+- III. sprinte dair tüm görevler verildi.
+</details>
+
+<!-- ============================================================================================= SPRINT3 ============================================================================================================= -->
+
 
 
 
