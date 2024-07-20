@@ -19,6 +19,10 @@
 ## → Oyun İsmi
 ### **`Nightfall Defender`**
 
+<p align="center">
+<img src="screenshots/logo.gif" alt="Logo" width="800" height="300">  
+</p>
+
 ## → Oyun Açıklaması
 
 Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasabanın geceleyin zombilere dönüşen karanlık tehlikesine karşı cesurca mücadele eden bir şerif olarak rol alırlar. Bu heyecan verici oyun deneyiminde, kasabanın sokaklarında dolaşan zombilere karşı koymak ve sakinleri korumak için silahlarını kullanırlar.
