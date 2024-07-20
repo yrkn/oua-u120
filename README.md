@@ -13,7 +13,7 @@
 | Yarkın Gökçel   | Scrum Master & Developer          | <p align="center"><a href="https://www.linkedin.com/in/yrknn/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/yrkn"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
 | Yakup Taşpınar   | Developer          | <p align="center"><a href="https://www.linkedin.com/in/yakup-taşpınar-a32664285/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/jacobtsp"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
 | Zeynep İrem Tekin   | Developer          | <p align="center"><a href="https://www.linkedin.com/in/zeynepiremtekin/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href="https://github.com/Zeynepiremtekin"><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
-| Zeynep Erden   | ❌ Henüz Dahil Olmadı ❌ | <p align="center"><a href=" "><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href=" "><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> |
+<!-- | Zeynep Erden   | ❌ Takıma Dahil Olmadı ❌ | <p align="center"><a href=" "><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20"></a></p> | <p align="center"><a href=" "><img src="https://pngimg.com/uploads/github/github_PNG63.png" width="20"></a></p> | --> 
 
 
 ## → Oyun İsmi
