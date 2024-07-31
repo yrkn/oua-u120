@@ -188,8 +188,6 @@ Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasaban
 <details>
 <summary><h2>Proje Detayları</h2></summary>
 
-### → Gameplay videosu için <a href="https://youtu.be/UVib2dJywQU" target="_blank">tıkla</a>
-
 ### → itch.io WebGL çıktısı için <a href="https://yrkn.itch.io/bootcamp120" target="_blank">tıkla</a>
 
 <details>
