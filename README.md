@@ -3,7 +3,7 @@
 # 👾 Google OUA 3.0 Bootcamp - Unity#120
 
 <details>
-  <summary><h2>Ürün Kimliği</h2></summary>
+  <summary><h2>Proje Kimliği</h2></summary>
 
 ## → Takım Üyeleri
 
@@ -185,7 +185,31 @@ Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasaban
 
 <!-- ============================================================================================= PROJE ============================================================================================================= -->
 
+<details>
+<summary><h2>Proje Detayları</h2></summary>
 
+<details>
+<summary><h3>Oyun Kontrolleri</h3></summary>
+<img src="screenshots/control.png" width="1000" height="auto">    
+</details>
+
+<details>
+<summary><h3>Cinematics</h3></summary>
+<p align="center">
+<img src="screenshots/gameplay1.png" width="500" height="auto">   
+<img src="screenshots/gameplay2.png" width="500" height="auto">   
+<img src="screenshots/gameplay3.png" width="500" height="auto">   
+<img src="screenshots/gameplay4.png" width="500" height="auto">   
+<img src="screenshots/gameplay5.png" width="500" height="auto">   
+<img src="screenshots/gameplay6.png" width="500" height="auto">
+</p>
+</details>
+
+### → itch.io WebGL çıktısı için <a href="https://yrkn.itch.io/bootcamp120" target="_blank">tıkla</a>
+
+</details>
+
+<!-- ============================================================================================= PROJE SONU ============================================================================================================= -->
 
 
 
