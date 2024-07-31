@@ -140,6 +140,50 @@ Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasaban
 
 <!-- ============================================================================================= SPRINT3 ============================================================================================================= -->
 
+<details>
+<summary><h2>SPRINT-3</h2></summary>
+
+- Sprint içi puan kriteri 15 olarak belirlenmiş ve hedefe ulaşılmıştır.
+- **Puan Tamamlama Mantığı** : Proje boyunca tamamlanması gereken backlog puanı 40 olarak belirlenmiştir ve proje sonu 40 puana ulaşılmıştır.
+- **Daily Scrum** toplantıları Discord üzerinden yapılmıştır. Gerek görüldüğü vakitlerde WhatsApp üzerinden desteklenmiştir.
+- **Sprint Notları** : Üçüncü sprintte oyunun son sistemleri eklenmiştir ve tanıtımına dair görseller ve videolar hazırlanmıştır.
+
+<details>
+<summary><h3>Daily Scrum Screenshots</h3></summary>
+<p align="center">
+<img src="screenshots/dailyscrum4.png" width="500" height="auto">   
+<img src="screenshots/dailyscrum5.png" width="500" height="auto">   
+</p>
+</details>  
+  
+<details>
+<summary><h3>Sprint - 3 Board Update</h3></summary>
+<img src="screenshots/sprint3boardupd.png" width="500" height="auto">    
+</details>
+
+<details>
+<summary><h3>Oyun Durumu</h3></summary>
+<p align="center">
+<img src="screenshots/s3g1.png" width="500" height="auto">   
+<img src="screenshots/s3g2.png" width="500" height="auto">   
+<img src="screenshots/s3g3.png" width="500" height="auto">   
+</p>
+</details>
+
+### Sprint Review
+- İkinci sprintte hazırlanan sistemlerin bug'ları tespit edilip fixlendi.
+- Son eklenmesi gereken sistemler eklendi ve bug'ları tespit edilip fixlendi.
+- Oyun tanıtımına dair fotoğraf ve videolar hazırlandı.
+- WebGL çıktısı alınıp itch.io sayfasına entegre edildi.
+- Takım içi son değerlendirme toplantısı yapıldı.
+
+
+### Sprint Retrospective
+- Proje sonuna gelindi. Takım üyeleri arasında ileri tarihlerde yapılabilecek yeni projeler için iletişimde kalınacağına dair konuşmalar yapıldı.
+  
+</details>
+
+<!-- ============================================================================================= PROJE ============================================================================================================= -->
 
 
 
