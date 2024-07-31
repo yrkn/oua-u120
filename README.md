@@ -188,6 +188,10 @@ Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasaban
 <details>
 <summary><h2>Proje Detayları</h2></summary>
 
+### → Gameplay videosu için <a href="https://yrkn.itch.io/bootcamp120" target="_blank">tıkla</a>
+
+### → itch.io WebGL çıktısı için <a href="https://yrkn.itch.io/bootcamp120" target="_blank">tıkla</a>
+
 <details>
 <summary><h3>Oyun Kontrolleri</h3></summary>
 <img src="screenshots/control.png" width="1000" height="auto">    
@@ -205,7 +209,6 @@ Nightfall Defender, 3D grafiklere sahip bir aksiyon oyunudur. Oyuncular, kasaban
 </p>
 </details>
 
-### → itch.io WebGL çıktısı için <a href="https://yrkn.itch.io/bootcamp120" target="_blank">tıkla</a>
 
 </details>
 
