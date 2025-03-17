@@ -33,7 +33,6 @@ public class tpscam : MonoBehaviour
         if (!target)
             return;
 
-        // Check for key presses to adjust horizontal offset
         if (Input.GetKeyDown(KeyCode.Alpha2))
         {
             horizontalOffset = 1f;
